@@ -2,9 +2,7 @@ package controllers
 
 import (
 	"strconv"
-
 	"time"
-
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"
 	"github.com/raaedk/Golang-JWT/database"
